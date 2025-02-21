@@ -113,8 +113,11 @@ DeepTruth helps **anyone** navigate the internet **safely and responsibly**. Whe
 
 
   ### Analysis Results
-| Credibility Score | Source Analysis |
+| AI-Powered Analysis | Credibility Score |
 |:----------------:|:---------------:|
 | ![Score](assets/images/triassic1.png) | ![Analysis](assets/images/triassic2.png) |
+| AI-Powered Analysis | Credibility Score |
+|:----------------:|:---------------:|
+| ![Score](assets/images/fake1.png) | ![Analysis](assets/images/fake2.png) |
 
 #StayInformed #DeepTruth #FactChecking #AIForGood 🚀
