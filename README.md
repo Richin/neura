@@ -111,4 +111,10 @@ DeepTruth helps **anyone** navigate the internet **safely and responsibly**. Whe
   pip install -r requirements.txt
   ```
 
+
+  ### Analysis Results
+| Credibility Score | Source Analysis |
+|:----------------:|:---------------:|
+| ![Score](assets/images/triassic1.png) | ![Analysis](assets/images/triassic2.png) |
+
 #StayInformed #DeepTruth #FactChecking #AIForGood 🚀
