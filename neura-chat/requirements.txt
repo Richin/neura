@@ -1,0 +1,9 @@
+streamlit
+requests
+beautifulsoup4
+trafilatura
+whois
+python-whois
+tldextract
+flask
+flask-cors
