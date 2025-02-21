@@ -5,3 +5,5 @@ trafilatura
 whois
 python-whois
 tldextract
+flask
+flask-cors
