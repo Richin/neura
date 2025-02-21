@@ -7,3 +7,4 @@ python-whois
 tldextract
 flask
 flask-cors
+fastapi
