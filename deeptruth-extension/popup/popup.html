@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DeepTruth Analyzer</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <h1>DeepTruth</h1>
+    <div class="current-url">
+      <p>Current page:</p>
+      <p id="url" class="url-text"></p>
+    </div>
+    
+    <button id="analyze" class="analyze-btn">Analyze Page</button>
+    
+    <div id="results" class="results hidden">
+      <div class="trust-score">
+        <h2>Trust Score</h2>
+        <div id="score" class="score"></div>
+      </div>
+      
+      <div class="analysis">
+        <h2>Analysis</h2>
+        <p id="analysis-text"></p>
+      </div>
+    </div>
+    
+    <div id="loading" class="loading hidden">
+      <div class="spinner"></div>
+      <p>Analyzing content...</p>
+    </div>
+    
+    <div id="error" class="error hidden">
+      <p>Error analyzing content. Please try again.</p>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html> 
